@@ -3,5 +3,4 @@ def turn_count
   while count < 9
     return count += 1
   end
-  return count
 end
